@@ -1,0 +1,7 @@
+Bien, en este archivo, deben de agregar en la funcion Update_Encoders y en Update_Motors las instrucciones 
+que usarian en la roboclaw para hacer dichas funciones. De manera que controlen los dos motores de la muñeca
+Tambien seria buena idea que agreguen funciones de endstop (lo de los finales de carrera) con interrupciones, para
+que de momento, solamente se detenga el motor y se reinicie el encoder. Entonces, por cada motor tendrian dos finales de
+carrera, uno llmada hom1 digamos y el otro end1 y asi, de manera que sea seguro y no mueran los motores.
+Mmmm, que mas, seria buena idea que cuando hagan pruebas, usen el boton de paro de emergencia y sean dos personas para evitar
+accidentes. 
