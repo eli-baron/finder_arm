@@ -2,3 +2,4 @@ El llamado encoders.ino.ino es para echar a andar el RHRH
 El llamado prueba roboclaw es uno que hice para probar el conversor de niveles logicos con la stellaris y 
 la roboclaw
 El que se llama prueba roboclaw ros, es el que actualmente uso para mover el brazo.
+En libraries se encuentra la biblioteca Messenger.h que usamos en la stellaris para que funcione este asunto.
